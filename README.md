@@ -1,9 +1,4 @@
 # Regression-Analysis
-This second project is a great companion to the first! While the first focused on **simulation**, this one focuses on **Empirical Analysis**. You are using multivariate regression to see how different financial ratios impact a company's capital structure (Gearing).
-
-Here is a professional README template for this project:
-
----
 
 # Financial Determinants of Capital Gearing: A Regression Analysis
 
