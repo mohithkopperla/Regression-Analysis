@@ -49,6 +49,4 @@ $$Y = \beta_0 + \beta_1(\text{ROCE}) + \beta_2(\text{ROSF}) + \beta_3(\text{RTA}
 
 ---
 
----
 
-**Would you like me to suggest a repository name for this project as well, or perhaps a combined name if you plan to host both projects together?**
